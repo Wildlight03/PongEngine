@@ -1,0 +1,8 @@
+﻿  Pong.cpp
+C:\Users\Sam\Desktop\PongEngine\PongEngine\PongEngine\Pong.cpp(45,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sam\Desktop\PongEngine\PongEngine\PongEngine\Pong.cpp(46,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sam\Desktop\PongEngine\PongEngine\PongEngine\Pong.cpp(101,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sam\Desktop\PongEngine\PongEngine\PongEngine\Pong.cpp(102,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sam\Desktop\PongEngine\PongEngine\PongEngine\Pong.cpp(111,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sam\Desktop\PongEngine\PongEngine\PongEngine\Pong.cpp(112,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  PongEngine.vcxproj -> C:\Users\Sam\Desktop\PongEngine\PongEngine\x64\Debug\PongEngine.exe
