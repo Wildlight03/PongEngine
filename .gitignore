@@ -1,0 +1,67 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# IDE-specific files
+## Visual Studio
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.ipch
+*.log
+
+## Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+## CLion
+.idea/
+cmake-build-*/
+
+## Code::Blocks
+*.layout
+*.depend
+*.depend.*
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# System-specific files
+Thumbs.db
+Desktop.ini
