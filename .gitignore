@@ -12,7 +12,6 @@
 *.dll
 
 # Executables
-*.exe
 *.out
 *.app
 
@@ -22,6 +21,11 @@
 /dist/
 /Debug/
 /Release/
+/PongEngine/x64
+/PongEngine/Debug
+/x64
+/.vs
+
 
 # IDE-specific files
 ## Visual Studio
